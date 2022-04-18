@@ -1,7 +1,7 @@
-## Verified to work in Release
-This project was derived from the react-express-mysql project in [awesome-compose](https://github.com/docker/awesome-compose)
+## Verificado para funcionar na versão
+Este projeto foi derivado do projeto react-express-mysql em [awesome-compose](https://github.com/docker/awesome-compose)
 
-No modifications were necessary for this project to run in Release.
+Nenhuma modificação foi necessária para que este projeto fosse executado na versão.
 
 To make this project run in [Release](https://releaseapp.io), simply create a new application with this repository.
 
